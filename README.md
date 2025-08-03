@@ -1,4 +1,5 @@
 📦 Walmart Sales Forecasting
+
 This project analyzes and forecasts weekly sales data across multiple Walmart stores to help improve inventory management and demand planning.
 
 🧠 Objectives:
@@ -37,8 +38,11 @@ This project analyzes and forecasts weekly sales data across multiple Walmart st
 👤 Author
 
 Rehan Abdul Gani Shaikh
+
 Aspiring data scientist 
 
 🔗 Connect with me: www.linkedin.com/in/rehan-shaikh-68153a246
+
 📬 Email: rehansk.3107@gmail.com
+
 
