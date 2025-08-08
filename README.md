@@ -5,7 +5,7 @@
 ![Watchers](https://img.shields.io/github/watchers/RehanShaikh-ai/walmart-weekly-forecast?style=social)
 ![Issues](https://img.shields.io/github/issues/RehanShaikh-ai/walmart-weekly-forecast)
 ![Pull Requests](https://img.shields.io/github/issues-pr/RehanShaikh-ai/walmart-weekly-forecast)
-![License](https://img.shields.io/github/license/RehanShaikh-ai/walmart-weekly-forecast)
+![License MIT](https://img.shields.io/github/license/RehanShaikh-ai/walmart-weekly-forecast)
 
 ---
 
