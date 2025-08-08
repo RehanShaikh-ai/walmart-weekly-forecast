@@ -1,47 +1,52 @@
-📦 Walmart Sales Forecasting
+# 📦 Walmart Sales Forecasting  
 
-This project analyzes and forecasts weekly sales data across multiple Walmart stores to help improve inventory management and demand planning.
+![Stars](https://img.shields.io/github/stars/RehanShaikh-ai/walmart-weekly-forecast?style=social)
+![Forks](https://img.shields.io/github/forks/RehanShaikh-ai/walmart-weekly-forecast?style=social)
+![Watchers](https://img.shields.io/github/watchers/RehanShaikh-ai/walmart-weekly-forecast?style=social)
+![Issues](https://img.shields.io/github/issues/RehanShaikh-ai/walmart-weekly-forecast)
+![Pull Requests](https://img.shields.io/github/issues-pr/RehanShaikh-ai/walmart-weekly-forecast)
+![License](https://img.shields.io/github/license/RehanShaikh-ai/walmart-weekly-forecast)
 
-🧠 Objectives:
+---
 
-- Perform exploratory data analysis (EDA) to identify trends, seasonality, and outliers
-- Understand how external factors like CPI, temperature, fuel price, and unemployment affect sales
-- Detect store-level performance differences
-- Build forecasting models (ARIMA, SARIMA, etc.) to predict sales for the next 12 weeks
+## 📖 Overview  
+This project analyzes and forecasts **weekly sales data** across multiple Walmart stores to improve **inventory management** and **demand planning**.
 
-📊 Project Workflow
+---
 
-1. Data Preprocessing
+## 🧠 Objectives  
+- Perform exploratory data analysis (EDA) to identify trends, seasonality, and outliers  
+- Understand how external factors like CPI, temperature, fuel price, and unemployment affect sales  
+- Detect store-level performance differences  
+- Build forecasting models (ARIMA, SARIMA, etc.) to predict sales for the next 12 weeks  
 
-- Handle missing values, incorrect data types, and outliers
+---
 
-2. Exploratory Data Analysis
+## 📊 Project Workflow  
 
-- Investigate weekly sales trends
-- Study relationships with CPI, unemployment, holidays, and temperature
-- Identify top and bottom performing stores
+### 1️⃣ Data Preprocessing  
+- Handle missing values, incorrect data types, and outliers  
 
-3. Feature Engineering
+### 2️⃣ Exploratory Data Analysis  
+- Investigate weekly sales trends  
+- Study relationships with CPI, unemployment, holidays, and temperature  
+- Identify top and bottom performing stores  
 
-- Create lag variables and time-based features (month, holiday flag, etc.)
+### 3️⃣ Feature Engineering  
+- Create lag variables and time-based features (month, holiday flag, etc.)  
 
-4. Forecasting
+### 4️⃣ Forecasting  
+- Use ARIMA/SARIMA for univariate forecasting per store  
+- Forecast next 12 weeks of sales for each store  
 
-- Use ARIMA/SARIMA for univariate forecasting per store
-- Forecast next 12 weeks of sales for each store
+### 5️⃣ Evaluation  
+- Evaluate model performance using RMSE  
 
-5. Evaluation
+---
 
-- Evaluate model performance using RMSE.
+## 👤 Author  
+**Rehan Abdul Gani Shaikh**  
+_Aspiring Data Scientist | B.Tech Student_  
 
-
-👤 Author
-
-Rehan Abdul Gani Shaikh
-
-Aspiring Data Scientist | B.Tech Student 
-
-🔗 Connect with me: www.linkedin.com/in/rehan-shaikh-68153a246
-
-📬 Email: rehansk.3107@gmail.com
-
+🔗 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/rehan-shaikh-68153a246)  
+📬 **Email:** rehansk.3107@gmail.com  
