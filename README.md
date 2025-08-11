@@ -9,10 +9,15 @@
 
 ---
 
+![report](report.jpg)
+
 ## 📖 Overview  
 This project analyzes and forecasts **weekly sales data** across multiple Walmart stores to improve **inventory management** and **demand planning**.
 
 ---
+![weekly trends](download.png)
+![prophet forecast](forecast.png)
+
 
 ## 🧠 Objectives  
 - Perform exploratory data analysis (EDA) to identify trends, seasonality, and outliers  
